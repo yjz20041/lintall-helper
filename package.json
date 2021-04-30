@@ -1,0 +1,30 @@
+{
+  "name": "lintall-helper",
+  "version": "0.0.2",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "npm": "./bin/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yjz20041/lintall-helper.git"
+  },
+  "keywords": [
+    "lint",
+    "es/style/commit"
+  ],
+  "author": "Mike Yang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yjz20041/lintall-helper/issues"
+  },
+  "homepage": "https://github.com/yjz20041/lintall-helper#readme",
+  "dependencies": {
+    "commander": "^7.2.0",
+    "fs-extra": "^9.1.0"
+  }
+}

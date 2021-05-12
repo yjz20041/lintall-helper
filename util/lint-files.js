@@ -9,7 +9,7 @@ module.exports = [
 
     // commitlint
 
-    // '.huscky.js',
+    '.huskyrc.js',
     '.commitlintrc.js',
 
     // prettierlint

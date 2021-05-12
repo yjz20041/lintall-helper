@@ -1,13 +1,13 @@
 {
   "name": "lintall-helper",
-  "version": "0.0.2",
+  "version": "0.0.4",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "bin": {
-    "npm": "./bin/index.js"
+    "lintall-helper": "./bin/index.js"
   },
   "repository": {
     "type": "git",
